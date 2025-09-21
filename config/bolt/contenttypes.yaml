@@ -7,6 +7,7 @@
 proyecto_archivistico:
     name: "Información general del proyecto"
     singular_name: "Proyecto archivístico"
+    singleton: true
     fields:
         title:
             type: text
